@@ -2,6 +2,7 @@
 
 ## Description
 This Python tool allows you to play the popular game "Red Light, Green Light" using your computer's camera. The game simulates the classic children's game where players must move forward when the light is green and freeze when the light turns red.
+Comments are made by gpt thats why its so clean this readme file too.
 
 ## Features
 - Utilizes OpenCV library for camera input
@@ -20,7 +21,7 @@ This Python tool allows you to play the popular game "Red Light, Green Light" us
 4. Follow the on-screen instructions to play the game.
 5. Move forward when the light is green and freeze when the light is red.
 6. Enjoy playing!
-7. click 
+7. click q or w key to win
 
 ## How It Works
 The program uses the computer's camera to capture video frames. It analyzes each frame to determine if the dominant color is green (for "go") or red (for "stop"). Based on the color detection, it prompts the player to move forward or freeze. The game continues until the player decides to quit.
